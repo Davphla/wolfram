@@ -1,4 +1,4 @@
-# Elementary Cellular Automaton (Wolfram Rule 30, 90, 110)
+# Elementary Cellular Automaton
 
 ![image](https://github.com/user-attachments/assets/23291e68-9704-417c-b63a-36c0f70af4c3)
 
